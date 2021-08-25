@@ -27,8 +27,10 @@
    - [Following A Target with 2D Rotation - Godot Tutorial](https://youtu.be/tX9yzjigV1k) <- Master Albert  
    - [Two ways to slow (or speed) time in Godot](https://youtu.be/MdZJcOBXGc0) <- MrEliptik  
    - [How to use SmartShape2D for Godot (Also: Post Processing and Asset Creation in Aseprite)](https://youtu.be/r-pd2yuNPvA) <- picster  
-   - [Light2D in Godot [in 100 seconds]](https://youtu.be/jXCEgW_Mgx8) <- Mokarrom Hossain
-   
+   - [Light2D in Godot [in 100 seconds]](https://youtu.be/jXCEgW_Mgx8) <- Mokarrom Hossain  
+   - [Parallax Scrolling in under 3 minutes! Godot 3.2 Tutorial](https://youtu.be/f8z4x6R7OSM) <- bitbrain  
+   - 
+
 2.Channels  
  - [Miziziziz](https://www.youtube.com/user/Miziziziz)  
  - [Garbaj](https://www.youtube.com/channel/UCPUe9uOcp1UMpVi6Vll60Jw)  
@@ -41,3 +43,5 @@
  - [Pigdev](https://www.youtube.com/channel/UCFK9ZoVDqDgY6KGMcHEloFw)  
  - [Gonkee](https://www.youtube.com/channel/UCJqCPFHdbc6443G3Sz6VYDw)  
  - [Mokarrom Hossain](https://www.youtube.com/channel/UC7muK7PXkSGUoRtTZxwOh4Q)
+
+******hey i am mokarrom...i am not an expert in using Godot...but i thought listing some of the tutorials might help you guys + me too! feel free to add your video just add an issue with the youtube link and i will add it ASAP******
