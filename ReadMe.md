@@ -14,12 +14,11 @@
    - [How to Use Particles2D in Godot 3.2 (A Beginner Guide to Particles #1)](https://youtu.be/rLsgX8x_Jg4) <- jmbiv  
    - [How to make Particles and Visual Effects in Godot ( and grab the FREE Textures!)](https://youtu.be/DPDPI5zDeoM) <- picster  
    - 
-   
  - 3D <- specially for 3D  
    - [How to make a 3D platformer in Godot in 8 minutes](https://youtu.be/1I3z5ZpBOmc) <- Miziziziz  
    - [Basic 3d Movement in Godot 3.3.1 in Mins](https://youtu.be/PrGHA6IGYMo) <- rayuse rp  
    - [Improved First Person Character Controller (Godot FPS Tutorial)](https://youtu.be/Nn2mi5sI8bM) <- Garbaj  
- -Special <- some special tricks and things
+ - Special <- some special tricks and things
    - [Godot 2D Tutorial - How to make a Chain or Rope](https://youtu.be/UGNtDCnETwc) <- Rehaan Dafedar  
    - [How to create a Grappling Hook in Godot.](https://youtu.be/Wzrw6_KDMl4) <- OptionalDev  
    - [Ropes 2D in Godot [in 3 Minutes] | with Physics](https://youtu.be/0ABq6wL016g) <- Mokarrom Hossain  
